@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root,
+#root::before,
+#root::after {
+  background-color: #00040f;
+  color: #fff;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+p {
+  color: #ffffffb2 !important;
+}
