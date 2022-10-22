@@ -5,7 +5,7 @@ export default function Footer() {
     <div className="mt-24">
       <div className="grid grid-cols-4 text-[18px] justify-items-center ">
         <div>
-          <img src="/assets/logo.svg" alt="logo" className="mb-4" />
+          <img src="/modern-web/assets/logo.svg" alt="logo" className="mb-4" />
           <p className=" text-[#FFFFFFB2]">
             A new way to make the payments easy, reliable and secure.
           </p>
@@ -67,16 +67,16 @@ export default function Footer() {
         <p>Copyright &copy; 2021 HooBank. All Rights Reserved.</p>
         <div className="flex flex-wrap gap-6">
           <a href="#">
-            <img src="/assets/instagram.svg" alt="icon" />
+            <img src="/modern-web/assets/instagram.svg" alt="icon" />
           </a>
           <a href="#">
-            <img src="/assets/facebook.svg" alt="icon" />
+            <img src="/modern-web/assets/facebook.svg" alt="icon" />
           </a>
           <a href="#">
-            <img src="/assets/twitter.svg" alt="icon" />
+            <img src="/modern-web/assets/twitter.svg" alt="icon" />
           </a>
           <a href="#">
-            <img src="/assets/linkedin.svg" alt="icon" />
+            <img src="/modern-web/assets/linkedin.svg" alt="icon" />
           </a>
         </div>
       </div>

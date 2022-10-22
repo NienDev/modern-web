@@ -21,22 +21,22 @@ export default function () {
           <Card
             title="Rewards"
             description="The best credit cards offer some tantalizing combinations of promotions and prizes"
-            path="/assets/Star.svg"
+            path="/modern-web/assets/Star.svg"
           />
           <Card
             title="100% Secured"
             description="We take proactive steps make sure your information and transactions are secure."
-            path="/assets/Shield.svg"
+            path="/modern-web/assets/Shield.svg"
           />
           <Card
             title="Balance Transfer"
             description="A balance transfer credit card can save you a lot of money in interest charges."
-            path="/assets/Send.svg"
+            path="/modern-web/assets/Send.svg"
           />
         </div>
       </div>
       <div className="flex mt-24">
-        <img src="/assets/bill.png" alt="image" className="w-1/2" />
+        <img src="/modern-web/assets/bill.png" alt="image" className="w-1/2" />
         <div className="w-[470px] mx-auto flex flex-col justify-center">
           <h1 className="font-semibold text-[48px] mb-6">
             Easily control your billing & invoicing.
@@ -48,10 +48,10 @@ export default function () {
           </p>
           <div className="flex gap-4">
             <button className="flex hover:border-2 rounded-md">
-              <img src="/assets/apple.svg" alt="icon" />
+              <img src="/modern-web/assets/apple.svg" alt="icon" />
             </button>
             <button className="flex hover:border-2 rounded-md">
-              <img src="/assets/google.svg" alt="icon" />
+              <img src="/modern-web/assets/google.svg" alt="icon" />
             </button>
           </div>
         </div>
@@ -70,7 +70,7 @@ export default function () {
           </button>
         </div>
         <div className="w-1/2">
-          <img src="/assets/card.png" alt="image" className="" />
+          <img src="/modern-web/assets/card.png" alt="image" className="" />
         </div>
       </div>
     </div>

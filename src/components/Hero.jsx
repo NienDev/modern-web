@@ -4,7 +4,7 @@ export const Hero = () => {
       <div className="">
         <div className="items-center uppercase flex flex-row bg-gradient-to-b from-[#272727] to-[#11101D] rounded-xl px-4 py-2 pb-1  text-[#FFFFFF99] gap-2 mb-6">
           <img
-            src="/assets/Discount.svg"
+            src="/modern-web/assets/Discount.svg"
             alt="logo"
             className="bg-gradient-to-b from-[#272727] to-[#11101D] rounded-xl"
           />
@@ -24,7 +24,11 @@ export const Hero = () => {
           <div className="border-2 box-content p-8 rounded-[50%] text-center absolute top-0 right-0 text-[18px] text-[#9DEDF0] border-[#9DEDF0]">
             <div className="flex flex-row text-center justify-center">
               <div className="">Get </div>
-              <img className="w-6 h-6" src="/assets/arrow-up.svg" alt="icon" />
+              <img
+                className="w-6 h-6"
+                src="/modern-web/assets/arrow-up.svg"
+                alt="icon"
+              />
             </div>
             <div>Started</div>
           </div>
@@ -37,7 +41,7 @@ export const Hero = () => {
         </p>
       </div>
       <img
-        src="/assets/robot.png"
+        src="/modern-web/assets/robot.png"
         alt="hero-image"
         className="w-[600px]  left-24 relative"
       />

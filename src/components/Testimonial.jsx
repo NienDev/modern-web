@@ -20,40 +20,40 @@ export default function Testimonial() {
           job="Founder & Leader"
           quote="Money is only a tool. It will take you wherever you wish, but it
             will not replace you as the driver."
-          path="/assets/people01.png"
+          path="/modern-web/assets/people01.png"
         />
         <UserCard
           name="Steve Mark"
           job="Founder & Leader"
           quote="Money makes your life easier. If you're lucky to have it, you're lucky."
-          path="/assets/people02.png"
+          path="/modern-web/assets/people02.png"
         />
         <UserCard
           name="Kenn Gallagher"
           job="Founder & Leader"
           quote="It is usually people in the money business, finance, and international trade that are really rich."
-          path="/assets/people03.png"
+          path="/modern-web/assets/people03.png"
         />
       </div>
       <div className="flex flex-row justify-between items-center mt-6">
         <img
           className="h-[60px]  object-cover"
-          src="/assets/airbnb.png"
+          src="/modern-web/assets/airbnb.png"
           alt="image"
         />
         <img
           className="h-[60px]  object-cover"
-          src="/assets/binance.png"
+          src="/modern-web/assets/binance.png"
           alt="image"
         />
         <img
           className="h-[60px] relative top-[-10px]"
-          src="/assets/coinbase.png"
+          src="/modern-web/assets/coinbase.png"
           alt="image"
         />
         <img
           className="h-[60px]  object-cover"
-          src="/assets/dropbox.png"
+          src="/modern-web/assets/dropbox.png"
           alt="image"
         />
       </div>

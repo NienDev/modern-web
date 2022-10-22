@@ -10,7 +10,7 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-          <Route path="/modern-web/home" element={<Home />} />
+          <Route path="/modern-web/" element={<Home />} />
           <Route path="/modern-web/about" element={<About />} />
           <Route path="/modern-web/feature" element={<Feature />} />
           <Route path="/modern-web/Solution" element={<Solution />} />
